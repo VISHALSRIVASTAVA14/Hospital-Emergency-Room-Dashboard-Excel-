@@ -32,3 +32,6 @@ Comparison chart showing how many patients were served on time vs delayed.
 <h3>🛠️ Tools Used</h3>
 
 1) Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting)
+
+<img width="863" height="376" alt="Hospital_Emergency_Room_Dashboard" src="https://github.com/user-attachments/assets/cde95b0f-91aa-448d-aea3-e2fb1048b215" />
+
