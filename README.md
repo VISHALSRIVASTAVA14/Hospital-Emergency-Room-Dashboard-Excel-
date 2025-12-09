@@ -29,4 +29,5 @@ Comparison chart showing how many patients were served on time vs delayed.
 
 3) Ideal for hospital analytics, performance tracking, and management reporting
 
-<h3>🛠️ Tools Used</h3> : Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting)
+<h3>🛠️ Tools Used</h3>
+ 1) Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting)
